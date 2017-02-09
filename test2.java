@@ -6,10 +6,10 @@ public class  StringCase{
 		String text3 = "   Hello World!   ";
 		
 		System.out.print(text3.trim());
-		System.out.println(text1.toLowerCase());
+		//System.out.println(text1.toLowerCase());
 		System.out.print(text3.trim());
-		System.out.println(text2.toUpperCase());
-		System.out.print(text3.trim());
+		//System.out.println(text2.toUpperCase());
+		
 
 	}
 }
